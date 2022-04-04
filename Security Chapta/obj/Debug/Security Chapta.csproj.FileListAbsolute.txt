@@ -1,0 +1,12 @@
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\bin\Debug\Security Chapta.exe.config
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\bin\Debug\Security Chapta.exe
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\bin\Debug\Security Chapta.pdb
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.csproj.AssemblyReference.cache
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.csproj.SuggestedBindingRedirects.cache
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security_Chapta.Form1.resources
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security_Chapta.Properties.Resources.resources
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.csproj.GenerateResource.cache
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.csproj.CoreCompileInputs.cache
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.exe
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security Chapta.pdb
+C:\Users\HamzaBilgin\source\repos\Security Chapta\Security Chapta\obj\Debug\Security_Chapta.youpassedchapta.resources
